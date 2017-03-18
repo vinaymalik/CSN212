@@ -2,6 +2,26 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//assignment 3
+//bellman ford
+
+/*input format
+4
+4
+1
+2
+3
+2
+3
+1
+3
+4
+-4
+4
+2
+2
+*/
+
 typedef pair<int, int> iPair;
 
 #define pb push_back
